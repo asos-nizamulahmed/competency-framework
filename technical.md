@@ -42,7 +42,7 @@ Actively coaches and mentors engineers at any level within any team about engine
 
 1. Understands key secure coding threats (e.g. OWASP top 10), how to mitigate them and factors this when authoring and reviewing code
 
-2. Actively participates in threat modelling sessions, helping to identify security threats, assess them and calling out potential mitigations
+2. <mark>Actively participates in threat modelling sessions, helping to identify security threats, assess them and calling out potential mitigations</mark>
 
 3. Understands architectural security risks, their mitigations and advocates for them to be resolved
 
@@ -78,10 +78,15 @@ Actively coaches and mentors engineers at any level within any team about engine
 
 1. Understands the benefits of having automated testing and the trade-offs between different test types. Adheres to the coding style used by the team.
 
-2. <mark>Ensures that new features are appropriately covered by automated tests and code has been analysed using code analysis tools. Understands that delivering small batches of software to production enables higher quality and faster feedback loops.</mark>
+2. Ensures that new features are appropriately covered by automated tests and code has been analysed using code analysis tools. Understands that delivering small batches of software to production enables higher quality and faster feedback loops.
 
-3. Optimises the tests used within the team by understanding when to shift left and right. Ensures there is confidence in the tests by ensuring they are not brittle
+3. <mark>Optimises the tests used within the team by understanding when to shift left and right. Ensures there is confidence in the tests by ensuring they are not brittle</mark>
 
 4. Drives code quality and coding style best practices within the team
 
 5. Drives code quality best practice and innovation across ASOS
+
+
+## Score
+
+15/35

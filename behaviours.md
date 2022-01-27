@@ -2,9 +2,9 @@
 
 ## Coaching & Mentoring
 
-1. Understands the benefits of coaching & mentoring (was - Is eager to be mentored and highlights areas where further mentoring is required)
+1. <mark>Understands the benefits of coaching & mentoring (was - Is eager to be mentored and highlights areas where further mentoring is required)</mark>
 
-2. <mark>Actively participating in coaching & mentoring and realizes the benefits as a mentee</mark>
+2. Actively participating in coaching & mentoring and realizes the benefits as a mentee
 
 3. Respected as a coach or mentor<details><summary>Examples</summary>
 	- Positive feedback on coaching sessions
@@ -19,7 +19,7 @@
 
 1. Engages with the team, contributes ideas, listens to and considers the thoughts of others to solve problems and increase the success of the team
 
-2. Provides open and honest feedback to their team on improving how software is delivered. Builds healthy relationships inside and outside their team
+2. <mark>Provides open and honest feedback to their team on improving how software is delivered. Builds healthy relationships inside and outside their team</mark>
 
 3. Uses different styles to communicate their ideas depending on the audience, and negotiates to reach balanced outcomes through sensible compromise. Provides open and honest feedback on behaviours to colleagues
 
@@ -33,7 +33,7 @@
 
 2. Continuously improves themselves and is always learning and adapting to new challenges. Actively solicits and acts on feedback.
 
-3. Takes ownership of their own career development. Understands where the gaps are in their conceptual knowledge and practical experience and actively improves them
+3. <mark>Takes ownership of their own career development. Understands where the gaps are in their conceptual knowledge and practical experience and actively improves them</mark>
 
 4. Is passionate about improving how we deliver software. Inspires others to follow in their path. Cultivates a culture of knowledge sharing.<details><summary>Examples</summary>
 	- Experimentation
@@ -51,7 +51,7 @@ examples on improving culture</details>
 
 2. Able to articulate the goals of the platform and how their day-to-day responsibilities drive achieving them
 
-3. Advocates for improvements on working practices to better achieve their platform's goals
+3.<mark>Advocates for improvements on working practices to better achieve their platform's goals</mark>
 
 // TODO: This sentence needs work
 4. Inspires others to envisage the impact they have on their platform goals and ASOS's wider goals
@@ -62,7 +62,7 @@ examples on improving culture</details>
 
 1. Attends talks and consumes resources created within their team, platform or domain. Interacts via comments and questions. Shares and promotes useful resources with other engineers in their area.
 
-2. Presents on topics, runs discussion groups or creates resources within their team, platform or domain. 
+2. <mark>Presents on topics, runs discussion groups or creates resources within their team, platform or domain.</mark>
 
 3. Writes blog posts or presents at Lightning Talks or Tech Develops sessions. Contributes to community projects and initiatives across Engineering
 
@@ -74,10 +74,10 @@ examples on improving culture</details>
 
 1. Understands the benefits of continuous improvement and that it is part of the day to day work along with delivering new features
 
-2. Identifies and delivers improvements and waste reduction measures within their team<details><summary>Examples</summary>
+2. <mark>Identifies and delivers improvements and waste reduction measures within their team<details><summary>Examples</summary>
 	- processes
  	- technology
-</details> 
+</details> </mark>
 
 TODO: Potentially revisit
 
@@ -91,7 +91,7 @@ TODO: Potentially revisit
 
 1. Understands that there are various approaches to problem solving.  Manages their time against deliverables.
 
-2. Effectively prioritises competing tasks while responding to changing requirements. Has an awareness of roadmap priorities as well as department initiatives. 
+2. <mark>Effectively prioritises competing tasks while responding to changing requirements. Has an awareness of roadmap priorities as well as department initiatives. </mark>
 
 3. Proactively addresses potential impediments to the team delivering value.  Manages stakeholders expectations and knows when to push back.
 
@@ -99,3 +99,6 @@ TODO: Potentially revisit
 
 5. Identifies opportunities for improvement and advocates for process and tooling efficiency in engineering.
 
+## Score
+
+15/35
