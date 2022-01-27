@@ -4,9 +4,9 @@
 
 1. Understands the logical, component and physical architecture of the service their team owns
 
-2. <mark>Articulates the logical, component and physical architecture of the distributed system their teams services contributes towards</mark>
+2. Articulates the logical, component and physical architecture of the distributed system their teams services contributes towards
 
-3. Contributes and challenges the architecture -  considering the trade-offs and effectively communicating this to engineers and architects
+3. <mark>Contributes and challenges the architecture -  considering the trade-offs and effectively communicating this to engineers and architects</mark>
 
 4. Actively contributes towards creating and incrementally improving the architecture in line with the architectural goals
 
@@ -89,4 +89,4 @@ Actively coaches and mentors engineers at any level within any team about engine
 
 ## Score
 
-15/35
+16/35
